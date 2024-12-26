@@ -5,6 +5,9 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <!-- Add more badges similarly -->
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 🎓 **Computer Science Student at TU Darmstadt**
 
 I'm a passionate and curious learner, always eager to explore and develop myself in new fields. With a solid foundation in problem-solving, object-oriented programming, and web development, I'm ready to take on new challenges and grow as a developer.
