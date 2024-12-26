@@ -1,5 +1,10 @@
 # Hi there, I'm Amine Cheikhrouhou 👋
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <!-- Add more badges similarly -->
+</div>
 🎓 **Computer Science Student at TU Darmstadt**
 
 I'm a passionate and curious learner, always eager to explore and develop myself in new fields. With a solid foundation in problem-solving, object-oriented programming, and web development, I'm ready to take on new challenges and grow as a developer.
